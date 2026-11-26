@@ -1,2 +1,12 @@
-# projeto-git-estudo
- Projeto para praticar Git e GitHub
+# Projeto Git Estudo
+
+Projeto criado para praticar Git e GitHub.
+
+## Tecnologias
+- HTML
+- CSS
+- JavaScript
+
+## Objetivo
+Aprender controle de versão, branches,
+commits e colaboração com GitHub.
