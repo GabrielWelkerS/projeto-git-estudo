@@ -10,3 +10,7 @@ Projeto criado para praticar Git e GitHub.
 ## Objetivo
 Aprender controle de versão, branches,
 commits e colaboração com GitHub.
+
+## Nova funcionalidade
+
+Aprendendo a trabalhar com Pull Requests no GitHub.
